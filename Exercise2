@@ -1,0 +1,17 @@
+Arrays
+- data type which is used to store data of the same type.
+- linear data structure
+- elements can be easily accessed randomly using an array index
+- it has a fixed memory location, so insertion and deletion are costly
+- static memory allocation - memory is allocated during compile time
+- since size is fixed, it is declared at the initialization
+- requires less memory
+
+Linked Lists
+- data type which is a collection of data of the same type, where the elements are connected by pointers
+- linear data structure
+- sequentially access, elements cannot be accessed randomly
+- insertion and deletion is easy and costless, by using pointers
+- dynamic memory allocation - memory is allocated during run time
+- the size is not fixed, it can change during execution
+- requires a lot of memory for data and pointer
